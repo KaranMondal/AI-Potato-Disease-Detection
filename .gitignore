@@ -1,0 +1,6 @@
+venv/
+dataset/
+dataset_clean/
+model/
+static/uploads/
+__pycache__/
