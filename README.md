@@ -19,7 +19,6 @@ An AI-powered web application that detects potato leaf diseases using a trained 
 - Flask
 - HTML/CSS/JavaScript
 - Chart.js
-- Microsoft Azure (Deployment)
 
 ## 📦 How to Run Locally
 
